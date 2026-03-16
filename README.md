@@ -8,7 +8,7 @@
 <h3>Procedure:</h3>
 Input and Output
 <br>Input:
-This algorithm will take three words.
+This algorithm will take three words
 <br> B A S E<br>
     B A L L<br>
            ----------<br>
